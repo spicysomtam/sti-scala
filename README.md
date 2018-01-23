@@ -10,7 +10,7 @@ The resulting image can be run using [Docker](http://docker.io).
 Versions
 ---------------
 Scala versions currently provided are:
-* SBT 0.13
+* SBT 1.1.0
 
 Java versions currently provided are:
 * Java 1.8.0
