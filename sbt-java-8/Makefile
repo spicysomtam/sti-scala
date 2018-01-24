@@ -1,5 +1,5 @@
 
-IMAGE_NAME = scala
+IMAGE_NAME = sti-scala
 
 build:
 	docker build -t $(IMAGE_NAME) .
